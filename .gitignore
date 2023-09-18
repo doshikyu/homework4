@@ -1,6 +1,6 @@
-out
-*.iml
-.idea/
+/out/
+/*.iml
+/.idea/
 ### IntelliJ IDEA ###
 !**/src/main/**/out/
 !**/src/test/**/out/
